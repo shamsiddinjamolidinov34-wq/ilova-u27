@@ -1,0 +1,39 @@
+<Keyboard>
+  <Row>
+    <Key key="q"/>
+    <Key key="w" codes="ş"/>
+    <Key key="e"/>
+    <Key key="r"/>
+    <Key key="t"/>
+    <Key key="y"/>
+    <Key key="u"/>
+    <Key key="i"/>
+    <Key key="o"/>
+    <Key key="p"/>
+    <Key key="o" codes="ö"/>
+  </Row>
+  <Row>
+    <Key key="a"/>
+    <Key key="s"/>
+    <Key key="d"/>
+    <Key key="f"/>
+    <Key key="g"/>
+    <Key key="h"/>
+    <Key key="j"/>
+    <Key key="k"/>
+    <Key key="l"/>
+  </Row>
+  <Row>
+    <Key key="z"/>
+    <Key key="x"/>
+    <Key key="c"/>
+    <Key key="v"/>
+    <Key key="b"/>
+    <Key key="n"/>
+    <Key key="m"/>
+  </Row>
+  <Row>
+    <Key key="ç"/>
+    <Key key="ğ"/>
+  </Row>
+</Keyboard>
